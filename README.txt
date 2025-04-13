@@ -18,11 +18,8 @@ Requisitos
 Configuração
 -----------
 1. Clone o repositório
-2. Execute o projeto usando o Maven Wrapper:
-   ```
-   .\mvnw.cmd spring-boot:run
-   ```
-
+2. Execute o projeto usando o Maven Wrapper:.\mvnw.cmd spring-boot:run
+   
 Endpoints da API
 ---------------
 A API estará disponível em: http://localhost:8080/api
@@ -49,7 +46,6 @@ Dependências
 - H2 Database
 - Lombok
 - Springdoc OpenAPI
-- Spring Boot Starter Test
 
 =========================
 Definições
