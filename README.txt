@@ -32,8 +32,6 @@ Documentação
 - Swagger UI: http://localhost:8080/swagger-ui.html
 - Console H2: http://localhost:8080/h2-console
   - JDBC URL: jdbc:h2:mem:rpgdb
-  - Usuário: SA
-  - Senha: (vazio)
 
 Estrutura do Projeto
 -------------------
